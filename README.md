@@ -1,13 +1,8 @@
 <p align="center">
   <a href="" rel="noopener">
- <img src="https://i.imgur.com/AZ2iWek.png" alt="Project logo"></a>
+ <img src="https://github.com/kodykoester/VBT_Device/blob/main/VBT/vbt.jpg" alt="Project logo"></a>
 </p>
 <h2 align="center">Velocity Based Training Device</h2>
-
-<div align="center">
-  [![Status](https://img.shields.io/badge/status-active-success.svg)]() 
-  [![License](https://img.shields.io/badge/license-MIT-blue.svg)](LICENSE.md)
-</div>
 
 ---
 
