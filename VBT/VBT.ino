@@ -24,7 +24,7 @@ void setup() {
     while (1);
 }
 
-voREAid loop() {
+void loop() {
   float pressure = BARO.readPressure();  //Read presure
   float altitude = 44330 * ( 1 - pow(pressure/101.325, 1/5.255) ); // convert it to meters
   float currentalt = ((altitude) - 322.25);    // equation to balance current pressure to zero-ish.
@@ -35,4 +35,4 @@ voREAid loop() {
   // wait 1 second to print again
   delay(1000);
   }
-  
+}
