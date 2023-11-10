@@ -33,6 +33,6 @@ void loop() {
   // print an empty line
   Serial.println();
   // wait 1 second to print again
-  delay(1000);
+  delay(100);
   }
 }
