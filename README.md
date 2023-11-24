@@ -6,12 +6,13 @@
 
 ---
 
-<p align="center"> Few lines describing your project.
+<p align="center"> This Arduino-based project utilizes the Arduino Nano 33 BLE Sense and its built-in accelerometer to create a velocity-based training (VBT) device. The device is designed to manage athletic output by dynamically adjusting training loads based on the athlete's daily condition. 
     <br> 
+  The concept of VBT recognizes that an athlete's performance can vary daily due to factors such as sleep, stress, and nutrition. By adapting training intensity to the athlete's daily capabilities, the device aims to optimize performance and reduce the risk of overtraining.
 </p>
 
 ## 📝 Table of Contents
-- [Problem Statement](#problem_statement)
+- [Problem](#problem)
 - [Idea / Solution](#idea)
 - [Dependencies / Limitations](#limitations)
 - [Future Scope](#future_scope)
@@ -22,11 +23,8 @@
 - [Authors](#authors)
 - [Acknowledgments](#acknowledgments)
 
-## 🧐 Problem Statement <a name = "problem_statement"></a>
-It is useful to design and follow a specific format when writing a problem statement. While there are several options
-for doing this, the following is a simple and straightforward template often used in Business Analysis to maintain
-focus on defining the problem.
-
+## The Problem <a name = "problem"></a>
+Being an athlete and training consistently is hard enough. If you're feeling under the weather or haven't gotten enough sleep make it that much more challenging. THat's where VBT come in handy. We can regulte
 - IDEAL: This section is used to describe the desired or “to be” state of the process or product. At large, this section 
 should illustrate what the expected environment would look like once the solution is implemented.
 - REALITY: This section is used to describe the current or “as is” state of the process or product. 
@@ -97,7 +95,3 @@ Add notes about how to use the system.
 See also the list of [contributors](https://github.com/kylelobo/The-Documentation-Compendium/contributors) 
 who participated in this project.
 
-## 🎉 Acknowledgments <a name = "acknowledgments"></a>
-- Hat tip to anyone whose code was used
-- Inspiration
-- References
