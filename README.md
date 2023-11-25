@@ -1,10 +1,10 @@
 
 <h2 align="center">Velocity Based Training Device</h2>
 
----
 
 
-  The concept of VBT recognizes that an athlete's performance can vary each training session due to factors such as sleep, nutrition, stress, etc. By adapting to the athlete's daily capabilities, the device aims to optimize performance and reduce the risk of overtraining.
+
+The concept of VBT recognizes that an athlete's performance can vary each training session due to factors such as sleep, nutrition, stress, etc. By adapting to the athlete's daily capabilities, the device aims to optimize performance and reduce the risk of overtraining.
 
 
 
