@@ -1,49 +1,42 @@
 #include <Arduino_LSM9DS1.h>
 
-const float thresholdStart = 1.2; // Acceleration threshold to start the timer (in g)
-const float thresholdStop = 0.3;  // Acceleration threshold to stop the timer (in g)
-
 unsigned long startTime = 0;
+unsigned long endTime = 0;
 bool timing = false;
 
 void setup() {
   Serial.begin(9600);
-
+  
   if (!IMU.begin()) {
-    Serial.println("Failed to initialize the LSM9DS1 IMU!");
+    Serial.println("Failed to initialize IMU!");
     while (1);
   }
+  Serial.println("Ready");
 }
 
 void loop() {
-  sensors_event_t accelEvent;
-  IMU.readAcceleration(accelEvent);
+  float x, y, z;
+   if (IMU.accelerationAvailable()) {
+    IMU.readAcceleration(x, y, z);
+    
 
-  float zAcceleration = accelEvent.acceleration.z;
-
-  // Check if the Z-axis acceleration is greater than the start threshold
-  if (zAcceleration >= thresholdStart && !timing) {
-    startTimer();
+  if (z > 1.2 && !timing) {
+    // Start the timer
+    startTime = millis();
+    timing = true;
+    Serial.println("Timer started!");
   }
 
-  // Check if the Z-axis acceleration is less than the stop threshold
-  if (zAcceleration <= thresholdStop && timing) {
-    stopTimer();
+  if (timing && z < 0.3) {
+    // Stop the timer
+    endTime = millis();
+    unsigned long elapsedTime = endTime - startTime;
+    timing = false;
+
+    // Print the elapsed time
+    Serial.print("Elapsed Time: ");
+    Serial.print(elapsedTime);
+    Serial.println(" ms");
   }
 }
-
-void startTimer() {
-  startTime = millis();
-  timing = true;
-  Serial.println("Timer started!");
-}
-
-void stopTimer() {
-  timing = false;
-  unsigned long stopTime = millis();
-  unsigned long elapsedTime = stopTime - startTime;
-
-  Serial.print("Timer stopped! Elapsed time: ");
-  Serial.print(elapsedTime);
-  Serial.println(" milliseconds");
 }
