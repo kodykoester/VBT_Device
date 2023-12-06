@@ -21,10 +21,10 @@
 Strength coaches control as many factors as possible to help train their athletes appropriately and specifically. Think rest, sets, reps, weight, etc.
 <br> <br>
 What happens when external factors like sleep, stress, nutrition get in the way? These devices account for such factors with something called:
-<br> <br>
+----
 **Auto-Regulation:** By monitoring velocity of a given exercise, athletes can adjust their training weight based on their daily readiness and fatigue levels. This concept is known as auto-regulation. If an athlete is not moving a weight at the desired velocity, it may indicate fatigue, and they can adjust the load accordingly to maintain optimal training intensity.
 
-There are plenty of additional reasons VBT is benifical: 
+<!--There are plenty of additional reasons VBT is benifical: 
 
 **Individualized Prescription:** VBT allows for a more individualized and dynamic approach to resistance training. Instead of prescribing fixed loads based on percentages of one's one-repetition maximum (1RM), VBT considers an individual's current capabilities and fatigue levels, adjusting loads in real-time.
 
@@ -37,9 +37,9 @@ There are plenty of additional reasons VBT is benifical:
 **Motivation and Engagement:** The immediate feedback provided by VBT devices can be motivating for individuals during training sessions. Seeing improvements in velocity or power output can enhance engagement and adherence to a training program.
 
 **Research and Monitoring:** VBT devices also have applications in research and monitoring. Researchers can use these tools to study movement patterns, fatigue, and performance across different populations and training protocols.
-
-> **Future Scope**
-> 
+-->
+**Future Scope**
+> BLE communication
 
 
 ## Current Deficiencies & Issues
