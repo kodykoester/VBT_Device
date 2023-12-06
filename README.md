@@ -34,15 +34,13 @@ There are plenty of reason VBT is benifical:
 **Motivation and Engagement:** The immediate feedback provided by VBT devices can be motivating for individuals during training sessions. Seeing improvements in velocity or power output can enhance engagement and adherence to a training program.
 
 **Research and Monitoring:** VBT devices also have applications in research and monitoring. Researchers can use these tools to study movement patterns, fatigue, and performance across different populations and training protocols.
------
+
 > **Future Scope**
-> If you're using Linux Bash for Windows, [see this guide](https://www.howtogeek.com/261575/how-to-run-graphical-linux-desktop-applications-from-windows-10s-bash-shell/) or use `node` from the command prompt.
+> 
 
 
 ## Current Deficiencies & Issues
-> There are many
-- [Tendo](https://www.tendosport.com/products/tendo-unit/overview/) - The industry standard, only $1,300!
-- [Correo](https://github.com/amitmerchant1990/correo) - A menubar/taskbar Gmail App for Windows and macOS
+- Must be oriented properly.
 
 ## License
 
