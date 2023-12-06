@@ -42,7 +42,7 @@ Strength coaches control as much as they can (rest, sets, reps, weight, etc) to 
 
 There are plenty of reason VBT is benifical: 
 
-**Individualized Prescription:**
+### **Individualized Prescription:**
 
 VBT allows for a more individualized and dynamic approach to resistance training. Instead of prescribing fixed loads based on percentages of one's one-repetition maximum (1RM), VBT considers an individual's current capabilities and fatigue levels, adjusting loads in real-time.
 
