@@ -42,61 +42,26 @@ Strength coaches control as much as they can (rest, sets, reps, weight, etc) to 
 
 There are plenty of reason VBT is benifical: 
 
-### **Individualized Prescription:**
+**Individualized Prescription:** VBT allows for a more individualized and dynamic approach to resistance training. Instead of prescribing fixed loads based on percentages of one's one-repetition maximum (1RM), VBT considers an individual's current capabilities and fatigue levels, adjusting loads in real-time.
 
-VBT allows for a more individualized and dynamic approach to resistance training. Instead of prescribing fixed loads based on percentages of one's one-repetition maximum (1RM), VBT considers an individual's current capabilities and fatigue levels, adjusting loads in real-time.
+**Auto-Regulation:** By monitoring velocity, athletes can adjust their training intensity based on their daily readiness and fatigue levels. This concept is known as auto-regulation. If an athlete is not moving a weight at the desired velocity, it may indicate fatigue, and they can adjust the load accordingly to maintain optimal training intensity.
 
-**Auto-Regulation:**
+**Objective Feedback:** VBT provides objective feedback on the speed of each repetition. This can help athletes and coaches identify patterns, weaknesses, or areas for improvement in their lifting technique. It offers a more quantitative approach to performance assessment.
 
-By monitoring velocity, athletes can adjust their training intensity based on their daily readiness and fatigue levels. This concept is known as auto-regulation. If an athlete is not moving a weight at the desired velocity, it may indicate fatigue, and they can adjust the load accordingly to maintain optimal training intensity.
+**Power Development:** Power is a critical component in many sports. VBT allows athletes to monitor and target specific power output levels during resistance training, helping to enhance explosive strength and speed.
 
-**Objective Feedback:**
-VBT provides objective feedback on the speed of each repetition. This can help athletes and coaches identify patterns, weaknesses, or areas for improvement in their lifting technique. It offers a more quantitative approach to performance assessment.
-Power Development:
+**Avoidance of Overtraining:** Traditional training programs may not account for daily variations in an individual's readiness or recovery status. VBT enables athletes to avoid overtraining by adjusting their training loads based on real-time data.
 
-Power is a critical component in many sports. VBT allows athletes to monitor and target specific power output levels during resistance training, helping to enhance explosive strength and speed.
+**Motivation and Engagement:** The immediate feedback provided by VBT devices can be motivating for individuals during training sessions. Seeing improvements in velocity or power output can enhance engagement and adherence to a training program.
 
-**Avoidance of Overtraining:**
-
-Traditional training programs may not account for daily variations in an individual's readiness or recovery status. VBT enables athletes to avoid overtraining by adjusting their training loads based on real-time data.
-
-**Motivation and Engagement:**
-
-The immediate feedback provided by VBT devices can be motivating for individuals during training sessions. Seeing improvements in velocity or power output can enhance engagement and adherence to a training program.
-
-**Research and Monitoring:**
-
-VBT devices also have applications in research and monitoring. Researchers can use these tools to study movement patterns, fatigue, and performance across different populations and training protocols.
+**Research and Monitoring:** VBT devices also have applications in research and monitoring. Researchers can use these tools to study movement patterns, fatigue, and performance across different populations and training protocols.
 -----
-> **Note**
+> **Future Scope**
 > If you're using Linux Bash for Windows, [see this guide](https://www.howtogeek.com/261575/how-to-run-graphical-linux-desktop-applications-from-windows-10s-bash-shell/) or use `node` from the command prompt.
 
 
-## Download
-
-You can [download](https://github.com/amitmerchant1990/electron-markdownify/releases/tag/v1.2.0) the latest installable version of Markdownify for Windows, macOS and Linux.
-
-## Emailware
-
-Markdownify is an [emailware](https://en.wiktionary.org/wiki/emailware). Meaning, if you liked using this app or it has helped you in any way, I'd like you send me an email at <bullredeyes@gmail.com> about anything you'd want to say about this software. I'd really appreciate it!
-
-
-## Related
-
-[markdownify-web](https://github.com/amitmerchant1990/markdownify-web) - Web version of Markdownify
-
-## Support
-
-<a href="https://www.buymeacoffee.com/5Zn8Xh3l9" target="_blank"><img src="https://www.buymeacoffee.com/assets/img/custom_images/purple_img.png" alt="Buy Me A Coffee" style="height: 41px !important;width: 174px !important;box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;-webkit-box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;" ></a>
-
-<p>Or</p> 
-
-<a href="https://www.patreon.com/amitmerchant">
-	<img src="https://c5.patreon.com/external/logo/become_a_patron_button@2x.png" width="160">
-</a>
-
-## You may also like...
-
+## Current Deficiencies & Issues
+> There are many
 - [Tendo](https://www.tendosport.com/products/tendo-unit/overview/) - The industry standard, only $1,300!
 - [Correo](https://github.com/amitmerchant1990/correo) - A menubar/taskbar Gmail App for Windows and macOS
 
