@@ -11,19 +11,20 @@
   <a href="#related">Related</a> •
   <a href="#license">License</a>
 </p>-->
-## What is this?
 
-<p> Velocity-based training (VBT) device is a piece of equipment designed to measure the velocity of movement during resistance training exercises. In other words, we are measuring 'intensity' of an exercise by how fast the athlete moves weight in meters per second.<p>
 
-## Why do I need one?
+## What? 
+<p>a piece of equipment designed to measure the velocity a weight travels during an exercises. In other words, a way to measure 'intensity' of an exercise in meters per second.<p>
 
-Strength coaches control as much as they can (rest, sets, reps, weight, etc) to make the biggest impact for their athletes. What happens when external factors like sleep, stress, nutrition get in the way? Meet velocity based training. 
+## Why?
 
-There are plenty of reason VBT is benifical: 
+Strength coaches control as many factors as possible to help train their athletes appropriately and specifically. Think rest, sets, reps, weight, etc. <!-- are all ways coaches manipulate a training program to make the biggest impact for their athletes. -->
+<br> 
+What happens when external factors like sleep, stress, nutrition get in the way? These devices account for such factors with something called: **Auto-Regulation:** By monitoring velocity of a given exercise, athletes can adjust their training weight based on their daily readiness and fatigue levels. This concept is known as auto-regulation. If an athlete is not moving a weight at the desired velocity, it may indicate fatigue, and they can adjust the load accordingly to maintain optimal training intensity.
+
+There are plenty of additional reasons VBT is benifical: 
 
 **Individualized Prescription:** VBT allows for a more individualized and dynamic approach to resistance training. Instead of prescribing fixed loads based on percentages of one's one-repetition maximum (1RM), VBT considers an individual's current capabilities and fatigue levels, adjusting loads in real-time.
-
-**Auto-Regulation:** By monitoring velocity, athletes can adjust their training intensity based on their daily readiness and fatigue levels. This concept is known as auto-regulation. If an athlete is not moving a weight at the desired velocity, it may indicate fatigue, and they can adjust the load accordingly to maintain optimal training intensity.
 
 **Objective Feedback:** VBT provides objective feedback on the speed of each repetition. This can help athletes and coaches identify patterns, weaknesses, or areas for improvement in their lifting technique. It offers a more quantitative approach to performance assessment.
 
