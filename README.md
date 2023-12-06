@@ -34,7 +34,7 @@
 
 ## What is this?
 
-A Velocity-based training (VBT) device is a piece of equipment designed to measure the velocity of movement during resistance training exercises. In other words, we are measuring 'intensity' of an exercise by how fast the athlete moves the barbell or weight.
+<p> Velocity-based training (VBT) device is a piece of equipment designed to measure the velocity of movement during resistance training exercises. In other words, we are measuring 'intensity' of an exercise by how fast the athlete moves the barbell or weight.<p>
 
 ## Why do I need one?
 
