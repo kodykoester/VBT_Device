@@ -21,14 +21,14 @@
 
 ### Prerequisites
 
-* pyserial
+* Python, pyserial, pygame.
   ```sh
   pip install pyserial pygame
   ```
 
 ### Start Program
-
-Navigate to the directory and run the script with
+1. Upload main.cpp file to device.
+2. Navigate to the directory and run this script.
    ```sh
    python3 vbt.py
    ```
