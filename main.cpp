@@ -1,7 +1,7 @@
 #include <ArduinoBLE.h>
 #include <Arduino_BMI270_BMM150.h>
 // If you're using the PlatformIO plugin on VScode you'll need to 
-// replace #include <Arduino_BMI270_BMM150.h> with #include <Arduino_LSM9DS1.h>
+// replace #include <Arduino_BMI270_BMM150.h> with <Arduino_LSM9DS1.h>
 
 unsigned long startTime = 0;
 unsigned long endTime = 0;
