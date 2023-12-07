@@ -2,12 +2,9 @@
   <h3 align="center">Velocity based training device.</h3>
 
   <p align="left">
-    Strength coaches control as many factors as possible to help train their athletes appropriately and specifically. Think rest, sets, reps, weight, etc. 
-    <br>
-    What happens when external factors like sleep, stress, nutrition get in the way? These devices account for such factors with something called:
-    <br>
-    <strong>Auto-Regulation:</strong> By monitoring velocity of a given exercise, athletes can adjust their training weight based on their daily readiness and fatigue levels. This concept is known as auto-regulation. If an athlete is not moving a weight at the desired velocity, it may indicate fatigue, and they can adjust the load accordingly to maintain optimal training intensity.
-    <br/>
+    Strength coaches control as many factors as possible to help train their athletes appropriately and specifically. Think rest, sets, reps, weight, etc. What happens when external factors like sleep, stress, nutrition get in the way? These devices account for such factors with something called:
+    
+  **Auto-Regulation:** By monitoring velocity of a given exercise, athletes can adjust their training weight based on their daily readiness and fatigue levels. This concept is known as auto-regulation. If an athlete is not moving a weight at the desired velocity, it may indicate fatigue, and they can adjust the load accordingly to maintain optimal training intensity.
   </p>
 </div>
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
@@ -18,14 +15,8 @@
 
 This section should list any major frameworks/libraries used to bootstrap your project. Leave any add-ons/plugins for the acknowledgements section. Here are a few examples.
 
-* [![Arduino][Next.js]][Next-url]
-* [![React][[arduino-shield]]][React-url]
-* [![Vue][Vue.js]][Vue-url]
-* [![Angular][Angular.io]][Angular-url]
-* [![Svelte][Svelte.dev]][Svelte-url]
-* [![Laravel][Laravel.com]][Laravel-url]
-* [![Bootstrap][Bootstrap.com]][Bootstrap-url]
-* [arduino-shield]
+* [Arduino](https://img.shields.io/badge/Arduino_IDE-00979D?style=for-the-badge&logo=arduino&logoColor=white)
+
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
