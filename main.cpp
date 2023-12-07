@@ -9,9 +9,7 @@ bool timing = false;
 float distance = 1.0; // Distance in meters
 
 BLEService environmentService("181A"); // Environmental Sensing Service UUID
-BLECharacteristic temperatureCharacteristic("2A6E", BLERead | BLENotify, 4); // Temperature Characteristic UUID
-BLECharacteristic humidityCharacteristic("2A6F", BLERead | BLENotify, 4);    // Humidity Characteristic UUID
-BLECharacteristic speedCharacteristic("19B10001-E8F2-537E-4F6C-D104768A1214", BLERead | BLENotify, 20); // Custom Speed Characteristic UUID
+BLECharacteristic speedCharacteristic("19B10001-E8F2-537E-4F6C-D104768A1214", BLERead | BLENotify, 20); // Speed Characteristic UUID
 
 void setup() {
   Serial.begin(9600);
