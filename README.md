@@ -9,14 +9,13 @@
   By monitoring velocity of a given exercise, athletes can adjust their training weight based on their daily readiness and fatigue levels. This concept is known as auto-regulation. If an athlete is not moving a weight at the desired velocity, it may indicate fatigue, and they can adjust the load accordingly to maintain optimal training intensity.
   </p>
 </div>
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 ### Built With
 
 [![Arduino Shield](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white)](https://www.arduino.cc/)
 
 
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
 
 
 ### Prerequisites
@@ -32,8 +31,6 @@
    ```sh
    python3 vbt.py
    ```
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 <!-- ROADMAP -->
 ## Roadmap
