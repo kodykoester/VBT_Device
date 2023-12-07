@@ -13,7 +13,7 @@
 
 ### Built With
 
-[[arduino-shield]](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white)
+[![Arduino Shield](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white)](https://www.arduino.cc/)
 
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
