@@ -25,8 +25,6 @@ void setup() {
 
   // Add the service and characteristics
   BLE.setAdvertisedService(environmentService);
-  environmentService.addCharacteristic(temperatureCharacteristic);
-  environmentService.addCharacteristic(humidityCharacteristic);
   environmentService.addCharacteristic(speedCharacteristic);
   BLE.addService(environmentService);
 
