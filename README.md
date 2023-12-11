@@ -2,7 +2,7 @@
 <h2 align="center">Velocity based training device.</h2>
 
 <p align="left">
-Strength coaches control as many factors as possible to help train their athletes appropriately and target a desired outcome. Think rest, sets, reps, load, etc. What happens when external factors like sleep, stress, nutrition get in the way? These devices account for such factors with something called:
+Strength coaches control as many factors as possible to help train their athletes appropriately and target a desired outcome. Think rest, sets, reps, load, etc. What happens when external factors like sleep, stress, and nutrition get in the way? These devices account for such factors with something called:
 
 ### **Auto-Regulation** 
 
