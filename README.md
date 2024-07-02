@@ -34,7 +34,7 @@ By monitoring velocity of a given exercise, athletes can adjust their training w
 
 - [x] Add BLE Connectivity
 - [ ] Refine code
-- [ ] Add multi-orientation support?
+- [x] Add multi-orientation support?
 - [ ] Multi-language Support
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
