@@ -15,19 +15,33 @@ By monitoring velocity of a given exercise, athletes can adjust their training w
 [![Arduino Shield](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white)](https://www.arduino.cc/)
 
 
-### Prerequisites
+## Benefits
+- **Affordable:** Significantly reduces the cost of velocity-based training equipment.
+- **Versatile:** Offers both wireless and wired modes for flexible usage.
+- **User-Friendly:** Can be integrated with a computer to display velocity data in real-time.
 
-* Pyserial | pygame.
-  ```sh
-  pip install pyserial pygame
-  ```
+## Limitations
+- **Accuracy:** Requires measurement of the athlete's pulling height for precise data.
 
-## Start Program
-1. Upload main.cpp file to device.
-2. Navigate to the directory and run this script.
-   ```sh
-   python3 vbt.py
-   ```
+## Technical Specifications
+
+### Hardware
+- Arduino microcontroller
+- BLE (Bluetooth Low Energy) module for wireless communication
+- Accelerometer (e.g., BMI270 or LSM9DS1)
+
+### Software
+- **Python and Pygame** for displaying data on a computer screen
+- **Arduino Code** for sensor data processing and BLE communication
+
+## Installation
+
+### Python Code (Pygame Display)
+The Python script initializes a serial connection and uses Pygame to display the velocity data received from the Arduino. The data is read from the serial port and displayed as large text on the screen.
+
+#### Dependencies
+- `serial`
+- `pygame`
 
 <!-- ROADMAP -->
 ## Roadmap
