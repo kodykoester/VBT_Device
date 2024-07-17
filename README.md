@@ -47,7 +47,7 @@ The Python script initializes a serial connection and uses Pygame to display the
 ## Roadmap
 
 - [x] Add BLE Connectivity
-- [ ] Refine code
+- [ ] Live Feed
 - [x] Add multi-orientation support?
 - [ ] Multi-language Support
 
